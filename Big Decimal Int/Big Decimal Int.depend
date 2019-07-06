@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540568793 source:e:\fci\programming-ii\projects\big decimal int\main.cpp
+	<iostream>
+	"BigDecimalInt.h"
+
+1540567389 e:\fci\programming-ii\projects\big decimal int\include\bigdecimalint.h
+	<string>
+
+1540569239 source:e:\fci\programming-ii\projects\big decimal int\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	<iostream>
+

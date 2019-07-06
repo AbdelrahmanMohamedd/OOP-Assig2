@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1540846090 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\main.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1540852654 d:\level 2.1\prog-2\assignments\ass2\shapetask\include\shape.h
+	<iostream>
+	<string>
+
+1540854669 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\src\shape2d.cpp
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540853058 d:\level 2.1\prog-2\assignments\ass2\shapetask\include\shape2d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540852673 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854667 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\src\shape3d.cpp
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854669 d:\level 2.1\prog-2\assignments\ass2\shapetask\include\shape3d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855709 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\src\circle.cpp
+	"Circle.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855832 d:\level 2.1\prog-2\assignments\ass2\shapetask\include\circle.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855832 source:d:\level 2.1\prog-2\assignments\ass2\shapetask\src\square.cpp
+	"Square.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855837 d:\level 2.1\prog-2\assignments\ass2\shapetask\include\square.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540846090 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\main.cpp
+	<iostream>
+	<string>
+	"Shape.h"
+
+1540921508 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\shape.h
+	<iostream>
+	<string>
+
+1540855709 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\circle.cpp
+	"Circle.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855832 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\circle.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540853058 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\shape2d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540857113 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\cylinder.cpp
+	"Cylinder.h"
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540857113 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\cylinder.h
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854669 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\shape3d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854669 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\shape2d.cpp
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854667 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\shape3d.cpp
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540857113 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\sphere.cpp
+	"Sphere.h"
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540857113 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\sphere.h
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855832 source:e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\src\square.cpp
+	"Square.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540855837 e:\fci 2.0\prog. ii\assignment\ass2strx\ass2\shapetask\include\square.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854669 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\shape2d.cpp
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540853058 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\shape2d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540921508 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\shape.h
+	<iostream>
+	<string>
+
+1540854667 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\shape3d.cpp
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540854669 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\shape3d.h
+	"Shape.h"
+	<iostream>
+	<string>
+
+1540921544 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541102894 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\circle.cpp
+	"Circle.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541102373 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\circle.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541102913 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\sphere.cpp
+	"Sphere.h"
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541101942 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\sphere.h
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541103476 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\cylinder.cpp
+	"Cylinder.h"
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541103654 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\cylinder.h
+	"Shape3D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541103162 source:c:\users\o&a\desktop\ass2strx\ass2\shapetask\src\square.cpp
+	"Square.h"
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
+1541103162 c:\users\o&a\desktop\ass2strx\ass2\shapetask\include\square.h
+	"Shape2D.h"
+	"Shape.h"
+	<iostream>
+	<string>
+
